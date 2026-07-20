@@ -1,0 +1,1085 @@
+{
+  "baseline": [
+    {
+      "question": "What amenities are available in the Ribeira Charming Duplex in Porto?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10006546"
+      ],
+      "retrieved_listing_ids": [
+        "10006546",
+        "10628126",
+        "10664888",
+        "10560325",
+        "10751153"
+      ],
+      "cited_listing_ids": [
+        "10006546"
+      ],
+      "refused": false,
+      "answer": "The Ribeira Charming Duplex in Porto offers the following amenities: TV, Cable TV, Wifi, Kitchen, Paid parking off premises, Smoking allowed, Pets allowed, Buzzer/wireless intercom, Heating, Family/kid friendly, Washer, First aid kit, Fire extinguisher, Essentials, Hangers, Hair dryer, Iron, Pack \u2019n Play/travel crib, Room-darkening shades, Hot water, Bed linens, Extra pillows and blankets, Microwave, Coffee maker, Refrigerator, Dishwasher, Dishes and silverware, Cooking basics, Oven, Stove, and it is located waterfront [Listing ID: 10006546].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Which metro station is closest to Be Happy in Porto loft?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10083468"
+      ],
+      "retrieved_listing_ids": [
+        "10083468",
+        "10560325",
+        "10628126",
+        "10269320",
+        "10664888"
+      ],
+      "cited_listing_ids": [
+        "10083468"
+      ],
+      "refused": false,
+      "answer": "The closest metro station to Be Happy in Porto loft is MetroTrindade [Listing ID: 10083468].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Does the Downtown Oporto Inn have private parking?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10112159"
+      ],
+      "retrieved_listing_ids": [
+        "10112159",
+        "10664888",
+        "10628126",
+        "10083468",
+        "10487917"
+      ],
+      "cited_listing_ids": [
+        "10112159"
+      ],
+      "refused": false,
+      "answer": "No, the Downtown Oporto Inn does not have private parking [Listing ID: 10112159].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "What features does the balcony of A Casa Alegre in Vila do Conde have?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10117617"
+      ],
+      "retrieved_listing_ids": [
+        "10117617",
+        "10448594",
+        "10751153",
+        "10560325",
+        "10449328"
+      ],
+      "cited_listing_ids": [
+        "10117617"
+      ],
+      "refused": false,
+      "answer": "The balcony of A Casa Alegre in Vila do Conde features a 15 m\u00b2 space with a Brazilian hammock for resting and enjoying the sea view. [Listing ID: 10117617]",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Is Double Room en-suite (307) in Hong Kong?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10082307"
+      ],
+      "retrieved_listing_ids": [
+        "10082307",
+        "10084023",
+        "10911771",
+        "10215858",
+        "10233856"
+      ],
+      "cited_listing_ids": [
+        "10082307"
+      ],
+      "refused": false,
+      "answer": "Yes, the Double Room en-suite (307) is located in Hong Kong, Kowloon, Hong Kong. [Listing ID: 10082307]",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Where is the Copacabana Apartment Posto 6 located?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10038496"
+      ],
+      "retrieved_listing_ids": [
+        "10038496",
+        "10264100",
+        "11197217",
+        "10295352",
+        "10431455"
+      ],
+      "cited_listing_ids": [
+        "10038496"
+      ],
+      "refused": false,
+      "answer": "The Copacabana Apartment Posto 6 is located in Rio de Janeiro, Brazil, specifically on the Copacabana beach block, just a 5-minute walk from Ipanema beach (Arpoador) [Listing ID: 10038496].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Does the Ocean View Waikiki Marina condominium in Oahu include parking?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "1001265"
+      ],
+      "retrieved_listing_ids": [
+        "1001265",
+        "10948197",
+        "1129061",
+        "1104768",
+        "10266175"
+      ],
+      "cited_listing_ids": [
+        "1001265"
+      ],
+      "refused": false,
+      "answer": "Yes, the Ocean View Waikiki Marina condominium in Oahu includes parking. [Listing ID: 1001265]",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Which borough or neighborhood in New York is the Private Room in Bushwick located in?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10021707"
+      ],
+      "retrieved_listing_ids": [
+        "10021707",
+        "1068505",
+        "10752737",
+        "10812136",
+        "10992671"
+      ],
+      "cited_listing_ids": [
+        "10021707"
+      ],
+      "refused": false,
+      "answer": "The Private Room in Bushwick is located in Brooklyn, NY, United States, New York, United States [Listing ID: 10021707].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Which city has the Deluxe Loft Suite listing with listing ID 10057826?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10057826"
+      ],
+      "retrieved_listing_ids": [
+        "10057826",
+        "10542174",
+        "10612199",
+        "1003530",
+        "10752737"
+      ],
+      "cited_listing_ids": [
+        "10057826"
+      ],
+      "refused": false,
+      "answer": "The Deluxe Loft Suite listing with listing ID 10057826 is located in Brooklyn, NY, United States [Listing ID: 10057826].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "What are the characteristics of the Modern Spacious 1 Bedroom Loft in Montreal?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10057447"
+      ],
+      "retrieved_listing_ids": [
+        "10057447",
+        "11080033",
+        "10675315",
+        "10066928",
+        "1019168"
+      ],
+      "cited_listing_ids": [
+        "10057447"
+      ],
+      "refused": false,
+      "answer": "The Modern Spacious 1 Bedroom Loft in Montreal is characterized by its prime location, amazing lighting, and absence of annoying neighbors, making it a good place for a relaxing stay. The loft features a modern bathroom that guests will enjoy, a kitchen equipped with everything needed to cook, and is adorned with lots of plants and lights. It is an entire apartment available for rent. \n\nAmenities include internet, WiFi, kitchen, heating, family/kid friendly features, washer, dryer, smoke detector, first aid kit, safety card, fire extinguisher, essentials, shampoo, 24-hour check-in, hangers, iron, and a laptop-friendly workspace [Listing ID: 10057447].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Tell me about the Soho Cozy, Spacious and Convenient apartment in Hong Kong.",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10059872"
+      ],
+      "retrieved_listing_ids": [
+        "10059872",
+        "1127954",
+        "10840938",
+        "10893326",
+        "10659534"
+      ],
+      "cited_listing_ids": [
+        "10059872"
+      ],
+      "refused": false,
+      "answer": "The Soho Cozy, Spacious and Convenient apartment is located in Hong Kong, specifically in the Mid Levels area. It is a clean, fully furnished, spacious 1-bedroom flat situated just off the escalator and is only 2 minutes away from Soho bars and restaurants. The apartment is located in a quiet alley, 1 minute from Sun Yat Sen. \n\nAmenities include air conditioning, a kitchen, smoking allowed, a doorman, an elevator, heating, family/kid friendly features, essentials, and 24-hour check-in [Listing ID: 10059872].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Is there a nice room in Barcelona Center with double bed?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10082422"
+      ],
+      "retrieved_listing_ids": [
+        "10082422",
+        "11115528",
+        "1070322",
+        "10716793",
+        "10802909"
+      ],
+      "cited_listing_ids": [
+        "10082422"
+      ],
+      "refused": false,
+      "answer": "Yes, there is a nice room in Barcelona Center with a double bed. The listing is called \"Nice room in Barcelona Center,\" which features a cozy double bed room in an amazing flat located in the center of the city, close to Sagrada Familia and Passeig de Gracia. \n\nYou can find more details in the listing [Listing ID: 10082422].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "What plateau neighborhood listing has 3 bedrooms in Montreal?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10066928"
+      ],
+      "retrieved_listing_ids": [
+        "10066928",
+        "1019168",
+        "11080033",
+        "10675315",
+        "10057447"
+      ],
+      "cited_listing_ids": [
+        "10066928"
+      ],
+      "refused": false,
+      "answer": "The listing that has 3 bedrooms in the Plateau neighborhood of Montreal is:\n\n- **Name**: 3 chambres au coeur du Plateau\n- **Listing ID**: 10066928\n\nThis apartment features 3 bedrooms, each with a queen bed, and is located in a central area of the Plateau, close to bars, restaurants, and shops. [Listing ID: 10066928]",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "What city is the Cozy house at Beyo\u011flu located in?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10092679"
+      ],
+      "retrieved_listing_ids": [
+        "10488837",
+        "10092679",
+        "1058555",
+        "10486984",
+        "11113983"
+      ],
+      "cited_listing_ids": [
+        "10092679"
+      ],
+      "refused": false,
+      "answer": "The Cozy house at Beyo\u011flu is located in \u0130stanbul, Turkey [Listing ID: 10092679].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Can I check in early (from 6am) at the Sydney Hyde Park City Apartment?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10108388"
+      ],
+      "retrieved_listing_ids": [
+        "10108388",
+        "10091713",
+        "1131054",
+        "10416859",
+        "1098211"
+      ],
+      "cited_listing_ids": [
+        "10108388"
+      ],
+      "refused": false,
+      "answer": "Yes, you can check in early at the Sydney Hyde Park City Apartment from 6am [Listing ID: 10108388].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Which subway station is near the Downtown Oporto Inn?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10112159"
+      ],
+      "retrieved_listing_ids": [
+        "10112159",
+        "10664888",
+        "10628126",
+        "10269320",
+        "10560325"
+      ],
+      "cited_listing_ids": [
+        "10112159"
+      ],
+      "refused": false,
+      "answer": "The Downtown Oporto Inn is next to Trindade subway station and also near Faria Guimar\u00e3es subway station [Listing ID: 10112159].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "How many minutes by metro is Ligne verte from Montreal city centre?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10059244"
+      ],
+      "retrieved_listing_ids": [
+        "10059244",
+        "11080033",
+        "10066928",
+        "10057447",
+        "1019168"
+      ],
+      "cited_listing_ids": [
+        "10059244"
+      ],
+      "refused": false,
+      "answer": "Ligne verte is 15 minutes by metro from Montreal city centre [Listing ID: 10059244].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "How far is A Casa Alegre from the sea?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10117617"
+      ],
+      "retrieved_listing_ids": [
+        "10117617",
+        "10448594",
+        "10671783",
+        "10449328",
+        "10415637"
+      ],
+      "cited_listing_ids": [
+        "10117617"
+      ],
+      "refused": false,
+      "answer": "A Casa Alegre is located 150 meters from the sea, with the beach being just two minutes away [Listing ID: 10117617].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Show me apartments in Porto, Portugal.",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10006546",
+        "10083468",
+        "10112159",
+        "10117617"
+      ],
+      "retrieved_listing_ids": [
+        "10083468",
+        "1036027",
+        "10664888",
+        "10560325",
+        "10628126"
+      ],
+      "cited_listing_ids": [
+        "10083468",
+        "1036027",
+        "10664888",
+        "10560325",
+        "10628126"
+      ],
+      "refused": false,
+      "answer": "Here are some apartments available in Porto, Portugal:\n\n1. **Be Happy in Porto**\n   - Type: Loft\n   - Room Type: Entire home/apt\n   - Location: Porto, Porto, Portugal\n   - Description: Renovated and comfortable apartment located in the city center, close to major points of interest.\n   - [Listing ID: 10083468]\n\n2. **BBC OPORTO 4X2**\n   - Type: Apartment\n   - Room Type: Entire home/apt\n   - Location: Porto, Porto District, Portugal\n   - Description: Modern apartment near Pra\u00e7a do Marques, close to major attractions and public transportation.\n   - [Listing ID: 1036027]\n\n3. **PORTO DOWNTOWN FLATS-RIBEIRA STUDIO**\n   - Type: Apartment\n   - Room Type: Entire home/apt\n   - Location: Porto, Porto, Portugal\n   - Description: Newly remodeled apartment in the Ribeira area, classified as World Heritage, with luxury accommodation.\n   - [Listing ID: 10664888]\n\n4. **Spacious and well located apartment**\n   - Type: Apartment\n   - Room Type: Entire home/apt\n   - Location: Porto, Porto, Portugal\n   - Description: Spacious and bright apartment located in a region full of cafes and restaurants, close to the subway.\n   - [Listing ID: 10560325]\n\n5. **Ribeira Smart Flat**\n   - Type: Apartment\n   - Room Type: Entire home/apt\n   - Location: Porto, Porto, Portugal\n   - Description: Cosy flat in the Historic Center of Porto, very close to the Douro river and Sao Bento station.\n   - [Listing ID: 10628126]",
+      "recall": 0.25,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "What options do you have for a private room or apartment in Hong Kong?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10059872",
+        "10082307",
+        "10084023"
+      ],
+      "retrieved_listing_ids": [
+        "10084023",
+        "11145180",
+        "10343118",
+        "10659534",
+        "11305966"
+      ],
+      "cited_listing_ids": [
+        "10084023",
+        "11145180",
+        "10343118",
+        "10659534",
+        "11305966"
+      ],
+      "refused": false,
+      "answer": "For private room options in Hong Kong, you can consider the following listings:\n\n1. **City center private room with bed** - This is a private room located in a guesthouse in Kowloon, Hong Kong. It features a single bed, a big closet, and access to a living area, kitchen, and bathroom. It is close to Sham Shui Po and Prince Edward MTR stations. [Listing ID: 10084023]\n\n2. **Clean room in quiet area** - This listing offers a private room in an apartment located in Sai Kung District, New Territories. The room includes a bed and closet, and guests have access to a full kitchen and bathroom. It is a 7-minute walk from Po Lam MTR station. [Listing ID: 11145180]\n\nFor apartment options, you can consider:\n\n1. **Best location 1BR Apt in HK - Shops & Sights** - This is a newly renovated 1-bedroom apartment located in Kowloon, just a minute's walk from TST MTR station. It is situated in a vibrant area with easy access to shopping and dining. [Listing ID: 10343118]\n\n2. **Beautiful 1 Bedroom Apartment** - Located in Sheung Wan/Central, this cozy one-bedroom apartment is perfect for exploring Hong Kong. It is a 5-minute walk from the nearest MTR station. [Listing ID: 10659534]\n\n3. **NEW FLAT + PRIVATE ROOFTOP IN SAY YING PUN** - This newly renewed flat has 2 bedrooms and a private rooftop, located 100 meters from the MTR and a 10-minute walk to Central & Soho area. [Listing ID: 11305966]",
+      "recall": 0.3333333333333333,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Is there an easy 1 bedroom apartment in Chelsea, New York?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10096773"
+      ],
+      "retrieved_listing_ids": [
+        "10096773",
+        "10887852",
+        "10133350",
+        "10752737",
+        "10542174"
+      ],
+      "cited_listing_ids": [
+        "10096773"
+      ],
+      "refused": false,
+      "answer": "Yes, there is an easy 1 bedroom apartment in Chelsea, New York. It is called \"Easy 1 Bedroom in Chelsea\" and is described as a comfortable one bedroom with plenty of natural light, located in a residential neighborhood close to great food, bars, and subways. The listing ID is [Listing ID: 10096773].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "What are the features of Horto flat with small garden in Rio De Janeiro?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10009999"
+      ],
+      "retrieved_listing_ids": [
+        "10009999",
+        "10570041",
+        "10299095",
+        "10411341",
+        "10596036"
+      ],
+      "cited_listing_ids": [
+        "10009999"
+      ],
+      "refused": false,
+      "answer": "The Horto flat with small garden in Rio de Janeiro features a one bedroom plus a sofa-bed in the living room, accommodating up to four guests comfortably. It includes a small outside garden with an outside shower, a well-equipped open kitchen with both 110V and 220V wall plugs, and a bathroom with a shower, tub, and even a sauna machine. The flat is newly refurbished and located in a quiet and bucolic neighborhood next to the Botanical Garden, with easy access to transport and nearby restaurants and basic facilities [Listing ID: 10009999].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Find me a cabin in Tokyo with a hot tub.",
+      "type": "no_answer",
+      "expected_listing_ids": [],
+      "retrieved_listing_ids": [
+        "10280433",
+        "10317142",
+        "10166986",
+        "10548991",
+        "10948197"
+      ],
+      "cited_listing_ids": [],
+      "refused": true,
+      "answer": "I am sorry, but I do not have enough information to answer your question.",
+      "recall": null,
+      "groundedness": 1.0,
+      "refusal_correctness": 1.0
+    },
+    {
+      "question": "What are the rules for booking a penthouse in London?",
+      "type": "no_answer",
+      "expected_listing_ids": [],
+      "retrieved_listing_ids": [
+        "10267144",
+        "10816768",
+        "11305966",
+        "10096773",
+        "11136898"
+      ],
+      "cited_listing_ids": [],
+      "refused": true,
+      "answer": "I am sorry, but I do not have enough information to answer your question.",
+      "recall": null,
+      "groundedness": 1.0,
+      "refusal_correctness": 1.0
+    },
+    {
+      "question": "Show me listings in Paris near the Eiffel Tower.",
+      "type": "no_answer",
+      "expected_listing_ids": [],
+      "retrieved_listing_ids": [
+        "10059244",
+        "1111410",
+        "11080033",
+        "10082422",
+        "10066928"
+      ],
+      "cited_listing_ids": [],
+      "refused": true,
+      "answer": "I am sorry, but I do not have enough information to answer your question.",
+      "recall": null,
+      "groundedness": 1.0,
+      "refusal_correctness": 1.0
+    },
+    {
+      "question": "Is there a villa in Bali with a private chef?",
+      "type": "no_answer",
+      "expected_listing_ids": [],
+      "retrieved_listing_ids": [
+        "1022200",
+        "10317142",
+        "1095174",
+        "1069531",
+        "10392282"
+      ],
+      "cited_listing_ids": [],
+      "refused": true,
+      "answer": "I am sorry, but I do not have enough information to answer your question.",
+      "recall": null,
+      "groundedness": 1.0,
+      "refusal_correctness": 1.0
+    },
+    {
+      "question": "Tell me about pet friendly apartments in Berlin.",
+      "type": "no_answer",
+      "expected_listing_ids": [],
+      "retrieved_listing_ids": [
+        "1117706",
+        "1101035",
+        "103161",
+        "10299095",
+        "11191242"
+      ],
+      "cited_listing_ids": [],
+      "refused": true,
+      "answer": "I am sorry, but I do not have enough information to answer your question.",
+      "recall": null,
+      "groundedness": 1.0,
+      "refusal_correctness": 1.0
+    }
+  ],
+  "improved": [
+    {
+      "question": "What amenities are available in the Ribeira Charming Duplex in Porto?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10006546"
+      ],
+      "retrieved_listing_ids": [
+        "10006546"
+      ],
+      "cited_listing_ids": [
+        "10006546"
+      ],
+      "refused": false,
+      "answer": "The Ribeira Charming Duplex in Porto offers the following amenities: TV, Cable TV, Wifi, Kitchen, Paid parking off premises, Smoking allowed, Pets allowed, Buzzer/wireless intercom, Heating, Family/kid friendly, Washer, First aid kit, Fire extinguisher, Essentials, Hangers, Hair dryer, Iron, Pack \u2019n Play/travel crib, Room-darkening shades, Hot water, Bed linens, Extra pillows and blankets, Microwave, Coffee maker, Refrigerator, Dishwasher, Dishes and silverware, Cooking basics, Oven, Stove, Cleaning before checkout, and it is located waterfront [Listing ID: 10006546].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Which metro station is closest to Be Happy in Porto loft?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10083468"
+      ],
+      "retrieved_listing_ids": [
+        "10083468",
+        "10560325",
+        "10628126",
+        "10269320"
+      ],
+      "cited_listing_ids": [
+        "10083468"
+      ],
+      "refused": false,
+      "answer": "The closest metro station to Be Happy in Porto loft is MetroTrindade. [Listing ID: 10083468]",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Does the Downtown Oporto Inn have private parking?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10112159"
+      ],
+      "retrieved_listing_ids": [
+        "1036027"
+      ],
+      "cited_listing_ids": [],
+      "refused": true,
+      "answer": "I am sorry, but I do not have enough information to answer your question.",
+      "recall": 0.0,
+      "groundedness": 0.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "What features does the balcony of A Casa Alegre in Vila do Conde have?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10117617"
+      ],
+      "retrieved_listing_ids": [
+        "10117617"
+      ],
+      "cited_listing_ids": [
+        "10117617"
+      ],
+      "refused": false,
+      "answer": "The balcony of A Casa Alegre in Vila do Conde features a size of 15 m\u00b2 and includes a Brazilian hammock for resting and enjoying the sea view. [Listing ID: 10117617]",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Is Double Room en-suite (307) in Hong Kong?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10082307"
+      ],
+      "retrieved_listing_ids": [
+        "10082307"
+      ],
+      "cited_listing_ids": [
+        "10082307"
+      ],
+      "refused": false,
+      "answer": "Yes, Double Room en-suite (307) is located in Hong Kong [Listing ID: 10082307].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Where is the Copacabana Apartment Posto 6 located?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10038496"
+      ],
+      "retrieved_listing_ids": [
+        "10038496",
+        "10431455"
+      ],
+      "cited_listing_ids": [
+        "10038496"
+      ],
+      "refused": false,
+      "answer": "The Copacabana Apartment Posto 6 is located in Rio de Janeiro, Brazil, specifically on the Copacabana beach block, a 5-minute walk from Ipanema beach (Arpoador) [Listing ID: 10038496].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Does the Ocean View Waikiki Marina condominium in Oahu include parking?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "1001265"
+      ],
+      "retrieved_listing_ids": [
+        "1001265",
+        "1104768"
+      ],
+      "cited_listing_ids": [
+        "1001265"
+      ],
+      "refused": false,
+      "answer": "Yes, the Ocean View Waikiki Marina condominium in Oahu includes parking. [Listing ID: 1001265]",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Which borough or neighborhood in New York is the Private Room in Bushwick located in?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10021707"
+      ],
+      "retrieved_listing_ids": [
+        "10021707"
+      ],
+      "cited_listing_ids": [
+        "10021707"
+      ],
+      "refused": false,
+      "answer": "The Private Room in Bushwick is located in Brooklyn, NY, United States, New York, United States [Listing ID: 10021707].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Which city has the Deluxe Loft Suite listing with listing ID 10057826?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10057826"
+      ],
+      "retrieved_listing_ids": [
+        "10057826"
+      ],
+      "cited_listing_ids": [
+        "10057826"
+      ],
+      "refused": false,
+      "answer": "The Deluxe Loft Suite listing with listing ID 10057826 is located in Brooklyn, NY, United States [Listing ID: 10057826].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "What are the characteristics of the Modern Spacious 1 Bedroom Loft in Montreal?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10057447"
+      ],
+      "retrieved_listing_ids": [
+        "10057447"
+      ],
+      "cited_listing_ids": [
+        "10057447"
+      ],
+      "refused": false,
+      "answer": "The Modern Spacious 1 Bedroom Loft in Montreal is characterized by its prime location, amazing lighting, and absence of annoying neighbors, making it a good place for a relaxing stay. It features a modern bathroom, a kitchen equipped for cooking, and is adorned with lots of plants and lights. The amenities include internet, wifi, heating, family/kid friendly options, a washer and dryer, and essentials like shampoo and a first aid kit, among others [Listing ID: 10057447].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Tell me about the Soho Cozy, Spacious and Convenient apartment in Hong Kong.",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10059872"
+      ],
+      "retrieved_listing_ids": [
+        "10059872",
+        "1127954",
+        "10893326",
+        "10659534"
+      ],
+      "cited_listing_ids": [
+        "10059872"
+      ],
+      "refused": false,
+      "answer": "The Soho Cozy, Spacious and Convenient apartment is located in Hong Kong, specifically in the Mid Levels area. It is a clean, fully furnished, spacious 1-bedroom flat situated just off the escalator, only 2 minutes away from Soho's bars and restaurants. The apartment is located in a quiet alley, 1 minute from Sun Yat Sen. \n\nAmenities include air conditioning, a kitchen, smoking allowed, a doorman, an elevator, heating, family/kid friendly features, essentials, and 24-hour check-in [Listing ID: 10059872].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Is there a nice room in Barcelona Center with double bed?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10082422"
+      ],
+      "retrieved_listing_ids": [
+        "10082422",
+        "11115528"
+      ],
+      "cited_listing_ids": [
+        "10082422"
+      ],
+      "refused": false,
+      "answer": "Yes, there is a nice room in Barcelona Center with a double bed. The listing is called \"Nice room in Barcelona Center,\" which features a cozy double bed room in an amazing flat located in the center of the city, near Passeig de Sant Joan and metro stop Verdaguer, with views of Sagrada Familia and Torre Agbar [Listing ID: 10082422].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "What plateau neighborhood listing has 3 bedrooms in Montreal?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10066928"
+      ],
+      "retrieved_listing_ids": [
+        "10066928"
+      ],
+      "cited_listing_ids": [
+        "10066928"
+      ],
+      "refused": false,
+      "answer": "The listing that has 3 bedrooms in the Plateau neighborhood of Montreal is \"3 chambres au coeur du Plateau\" [Listing ID: 10066928].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "What city is the Cozy house at Beyo\u011flu located in?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10092679"
+      ],
+      "retrieved_listing_ids": [
+        "10092679"
+      ],
+      "cited_listing_ids": [
+        "10092679"
+      ],
+      "refused": false,
+      "answer": "The Cozy house at Beyo\u011flu is located in \u0130stanbul, Turkey [Listing ID: 10092679].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Can I check in early (from 6am) at the Sydney Hyde Park City Apartment?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10108388"
+      ],
+      "retrieved_listing_ids": [
+        "10108388"
+      ],
+      "cited_listing_ids": [
+        "10108388"
+      ],
+      "refused": false,
+      "answer": "Yes, you can check in early at the Sydney Hyde Park City Apartment from 6am [Listing ID: 10108388].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Which subway station is near the Downtown Oporto Inn?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10112159"
+      ],
+      "retrieved_listing_ids": [
+        "10112159"
+      ],
+      "cited_listing_ids": [
+        "10112159"
+      ],
+      "refused": false,
+      "answer": "The Downtown Oporto Inn is near the Trindade subway station and also close to the Faria Guimar\u00e3es subway station [Listing ID: 10112159].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "How many minutes by metro is Ligne verte from Montreal city centre?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10059244"
+      ],
+      "retrieved_listing_ids": [
+        "10059244",
+        "11080033",
+        "10066928"
+      ],
+      "cited_listing_ids": [
+        "10059244"
+      ],
+      "refused": false,
+      "answer": "Ligne verte is 15 minutes by metro from Montreal city centre [Listing ID: 10059244].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "How far is A Casa Alegre from the sea?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10117617"
+      ],
+      "retrieved_listing_ids": [
+        "10117617",
+        "10448594"
+      ],
+      "cited_listing_ids": [
+        "10117617"
+      ],
+      "refused": false,
+      "answer": "A Casa Alegre is located 150 meters from the sea, and the beach is just a two-minute distance away [Listing ID: 10117617].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Show me apartments in Porto, Portugal.",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10006546",
+        "10083468",
+        "10112159",
+        "10117617"
+      ],
+      "retrieved_listing_ids": [
+        "10083468",
+        "1036027",
+        "10664888",
+        "10560325",
+        "10628126"
+      ],
+      "cited_listing_ids": [
+        "10083468",
+        "1036027",
+        "10664888",
+        "10560325",
+        "10628126"
+      ],
+      "refused": false,
+      "answer": "Here are some apartments available in Porto, Portugal:\n\n1. **Be Happy in Porto**\n   - Type: Loft | Room Type: Entire home/apt\n   - Description: Renovated and comfortable apartment located in the city center, close to major points of interest.\n   - [Listing ID: 10083468]\n\n2. **BBC OPORTO 4X2**\n   - Type: Apartment | Room Type: Entire home/apt\n   - Description: Modern apartment near Pra\u00e7a do Marques, close to major attractions and public transportation.\n   - [Listing ID: 1036027]\n\n3. **PORTO DOWNTOWN FLATS-RIBEIRA STUDIO**\n   - Type: Apartment | Room Type: Entire home/apt\n   - Description: Newly remodeled apartment in the historic Ribeira area, fully equipped with luxury accommodation.\n   - [Listing ID: 10664888]\n\n4. **Spacious and well located apartment**\n   - Type: Apartment | Room Type: Entire home/apt\n   - Description: Spacious and bright apartment located in a region full of cafes and restaurants, close to the subway.\n   - [Listing ID: 10560325]\n\n5. **Ribeira Smart Flat**\n   - Type: Apartment | Room Type: Entire home/apt\n   - Description: Cosy flat in the Historic Center of Porto, very close to the Douro river and Sao Bento station.\n   - [Listing ID: 10628126]",
+      "recall": 0.25,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "What options do you have for a private room or apartment in Hong Kong?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10059872",
+        "10082307",
+        "10084023"
+      ],
+      "retrieved_listing_ids": [
+        "10084023",
+        "11145180",
+        "10343118",
+        "10659534",
+        "11305966"
+      ],
+      "cited_listing_ids": [
+        "10084023",
+        "11145180",
+        "10343118",
+        "10659534",
+        "11305966"
+      ],
+      "refused": false,
+      "answer": "For private room options in Hong Kong, you can consider the following listings:\n\n1. **City center private room with bed** - This is a private room located in a guesthouse in Kowloon, Hong Kong. It features a single bed, a big closet, and access to a living area, kitchen, and bathroom. It is close to Sham Shui Po and Prince Edward MTR stations. [Listing ID: 10084023]\n\n2. **Clean room in quiet area** - This listing offers a private room in an apartment located in Sai Kung District, New Territories. The room includes a bed and closet, with access to a full kitchen and bathroom. It is a 7-minute walk from Po Lam MTR station and is looking for long-term tenants of 30+ days. [Listing ID: 11145180]\n\nFor entire apartment options, you can consider:\n\n1. **Best location 1BR Apt in HK - Shops & Sights** - This is a newly renovated 1-bedroom apartment located in the heart of Kowloon, just a minute's walk from TST MTR station. It is suitable for 1-4 people and offers various amenities. [Listing ID: 10343118]\n\n2. **Beautiful 1 Bedroom Apartment** - Located in Sheung Wan/Central, this cozy one-bedroom apartment is perfect for a young couple or single person. It is situated in a trendy area with ample natural light and is a 5-minute walk from the nearest MTR station. [Listing ID: 10659534]\n\n3. **NEW FLAT + PRIVATE ROOFTOP IN SAY YING PUN** - This newly renewed flat has 2 bedrooms and a private rooftop, located 100 meters from the MTR and a 10-minute walk to Central & Soho area. [Listing ID: 11305966]",
+      "recall": 0.3333333333333333,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Is there an easy 1 bedroom apartment in Chelsea, New York?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10096773"
+      ],
+      "retrieved_listing_ids": [
+        "10096773"
+      ],
+      "cited_listing_ids": [
+        "10096773"
+      ],
+      "refused": false,
+      "answer": "Yes, there is an easy 1 bedroom apartment in Chelsea, New York. It is described as a comfortable one bedroom with plenty of natural light, located in a walk-up building. The apartment includes a living room, kitchen, and bathroom, and is situated in a residential neighborhood close to food, bars, and attractions. [Listing ID: 10096773]",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "What are the features of Horto flat with small garden in Rio De Janeiro?",
+      "type": "answerable",
+      "expected_listing_ids": [
+        "10009999"
+      ],
+      "retrieved_listing_ids": [
+        "10009999"
+      ],
+      "cited_listing_ids": [
+        "10009999"
+      ],
+      "refused": false,
+      "answer": "The Horto flat with small garden in Rio de Janeiro features one bedroom and a sofa-bed, accommodating up to four guests comfortably. It includes a small outside garden with an outside shower, a well-equipped open kitchen with both 110V and 220V wall plugs, and a bathroom with a shower, tub, and a sauna machine. The flat is newly refurbished and located in a quiet neighborhood next to the Botanical Garden, with easy access to transport and nearby restaurants and basic facilities. Additional amenities include Wifi, wheelchair accessibility, free parking, and a hot tub [Listing ID: 10009999].",
+      "recall": 1.0,
+      "groundedness": 1.0,
+      "refusal_correctness": null
+    },
+    {
+      "question": "Find me a cabin in Tokyo with a hot tub.",
+      "type": "no_answer",
+      "expected_listing_ids": [],
+      "retrieved_listing_ids": [
+        "1001265"
+      ],
+      "cited_listing_ids": [],
+      "refused": true,
+      "answer": "I am sorry, but I do not have enough information to answer your question.",
+      "recall": null,
+      "groundedness": 1.0,
+      "refusal_correctness": 1.0
+    },
+    {
+      "question": "What are the rules for booking a penthouse in London?",
+      "type": "no_answer",
+      "expected_listing_ids": [],
+      "retrieved_listing_ids": [],
+      "cited_listing_ids": [],
+      "refused": true,
+      "answer": "I am sorry, but I do not have enough information to answer your question.",
+      "recall": null,
+      "groundedness": 1.0,
+      "refusal_correctness": 1.0
+    },
+    {
+      "question": "Show me listings in Paris near the Eiffel Tower.",
+      "type": "no_answer",
+      "expected_listing_ids": [],
+      "retrieved_listing_ids": [],
+      "cited_listing_ids": [],
+      "refused": true,
+      "answer": "I am sorry, but I do not have enough information to answer your question.",
+      "recall": null,
+      "groundedness": 1.0,
+      "refusal_correctness": 1.0
+    },
+    {
+      "question": "Is there a villa in Bali with a private chef?",
+      "type": "no_answer",
+      "expected_listing_ids": [],
+      "retrieved_listing_ids": [],
+      "cited_listing_ids": [],
+      "refused": true,
+      "answer": "I am sorry, but I do not have enough information to answer your question.",
+      "recall": null,
+      "groundedness": 1.0,
+      "refusal_correctness": 1.0
+    },
+    {
+      "question": "Tell me about pet friendly apartments in Berlin.",
+      "type": "no_answer",
+      "expected_listing_ids": [],
+      "retrieved_listing_ids": [
+        "10047964",
+        "11007542"
+      ],
+      "cited_listing_ids": [],
+      "refused": true,
+      "answer": "I am sorry, but I do not have enough information to answer your question.",
+      "recall": null,
+      "groundedness": 1.0,
+      "refusal_correctness": 1.0
+    }
+  ]
+}

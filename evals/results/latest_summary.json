@@ -1,0 +1,21 @@
+{
+  "total_examples": 27,
+  "answerable_examples": 22,
+  "no_answer_examples": 5,
+  "recall_at_5": 0.8901515151515151,
+  "citation_groundedness": 0.9629629629629629,
+  "refusal_correctness": 1.0,
+  "regression_gate": "PASSED",
+  "before_vs_after": {
+    "baseline": {
+      "recall_at_5": 0.9356060606060606,
+      "citation_groundedness": 1.0,
+      "refusal_correctness": 1.0
+    },
+    "improved": {
+      "recall_at_5": 0.8901515151515151,
+      "citation_groundedness": 0.9629629629629629,
+      "refusal_correctness": 1.0
+    }
+  }
+}
